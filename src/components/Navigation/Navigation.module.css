@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-left: 40px;
+    height: 70px;
+    box-shadow: 0 -4px 12px #000;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+.link {
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.active {
+    color: #cc002c;
+}

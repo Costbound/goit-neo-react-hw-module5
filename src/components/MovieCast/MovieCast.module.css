@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 18px;
+}
+.img {
+    margin-bottom: 16px;
+}
+.actorName {
+    margin-bottom: 8px;
+}

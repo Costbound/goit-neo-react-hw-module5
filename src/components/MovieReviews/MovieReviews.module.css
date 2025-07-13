@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-left: 32px;
+}
+.author {
+    margin-bottom: 8px;
+}
+.comment {
+    line-height: 1.3;
+}

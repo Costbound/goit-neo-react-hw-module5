@@ -1,0 +1,10 @@
+:root {
+    font-family: sans-serif;
+    letter-spacing: 0.02em;
+}
+img, button {
+    display: block;
+}
+ul {
+    list-style-type: disc;
+}
